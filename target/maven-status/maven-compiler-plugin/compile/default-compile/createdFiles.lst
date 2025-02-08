@@ -1,0 +1,9 @@
+com\preppy\javasystemdesign\kafka\KafkaConfig.class
+com\preppy\javasystemdesign\factorymethod\definitions\vehicles\TwoWheeler.class
+com\preppy\javasystemdesign\client\RestClientConfig.class
+com\preppy\javasystemdesign\kafka\KafkaProducer.class
+com\preppy\javasystemdesign\controller\ClimateController.class
+com\preppy\javasystemdesign\kafka\KafkaConsumer.class
+com\preppy\javasystemdesign\factorymethod\definitions\vehicles\Vehicle.class
+com\preppy\javasystemdesign\factorymethod\definitions\vehicles\Car.class
+com\preppy\javasystemdesign\service\ClimateService.class
